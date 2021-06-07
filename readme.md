@@ -11,3 +11,7 @@ and not just a chatbox.
 * Character sprites: https://opengameart.org/content/flatboy-8bit-animated-character CC-BY 4.0 ImogiaGames at OpenGameArt
 
 * Tileset: https://opengameart.org/content/pixel-tileset CC-BY 3.0 Xarius at OpenGameArt
+
+# Licensing
+Resources are as attributed in previous category,
+source code is GPLv3 as saved in license.md
